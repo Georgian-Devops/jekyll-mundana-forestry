@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What is Jekyll1
+title: What is Jekyll
 author: jane
 categories:
 - Jekyll
